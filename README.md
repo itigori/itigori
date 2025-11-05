@@ -4,7 +4,7 @@
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page;%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84+GitHub+%e4%b8%bb%e9%a1%b5;%e7%a7%81%e3%81%aegithub%e3%83%97%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab%e3%83%9a%e3%83%bc%e3%82%b8%e3%81%b8%e3%82%88%e3%81%86%e3%81%93%e3%81%9d" alt="Hello World" title="Hello World"/>
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page;%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84+GitHub+%e4%b8%bb%e9%a1%b5;%e7%a7%81%e3%81%aeGitHub%e3%83%97%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab%e3%83%9a%e3%83%bc%e3%82%b8%e3%81%b8%e3%82%88%e3%81%86%e3%81%93%e3%81%9d" alt="Hello World" title="Hello World"/>
 </p>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
