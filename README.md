@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&&section=header&text=HI%20THERE&fontSize=40&fontAlign=50&fontAlignY=20&desc=This%20is%20HoshikawaMiku&descAlign=50&descSize=20&descAlignY=45&animation=twinkling" alt="Hi There" title="Hi There"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&&section=header&text=HI%20THERE&fontSize=40&fontAlign=50&fontAlignY=25&desc=This%20is%20HoshikawaMiku&descAlign=50&descSize=20&descAlignY=45&animation=twinkling" alt="Hi There" title="Hi There"/>
 
 </p>
 <p align="center">
@@ -60,5 +60,5 @@
 </p>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&&section=footer&text=THE%20END&fontSize=30&fontAlign=50&fontAlignY=80&desc=Heads+up!+The+wheels+are+spinning!&descAlign=50&descSize=20&descAlignY=60&animation=twinkling" alt="The End" title="The End"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&&section=footer&text=THE%20END&fontSize=40&fontAlign=50&fontAlignY=85&desc=Heads+up!+The+wheels+are+spinning!&descAlign=50&descSize=20&descAlignY=60&animation=twinkling" alt="The End" title="The End"/>
 </p>
