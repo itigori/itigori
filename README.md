@@ -46,7 +46,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshikawamiku&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=hoshikawamiku&theme=algolia&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=HoshikawaMiku&theme=algolia&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
 </div>
 
 
