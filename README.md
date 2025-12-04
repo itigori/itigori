@@ -1,5 +1,10 @@
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&&section=header&text=HI%20THERE&fontSize=40&fontAlign=50&fontAlignY=25&desc=This%20is%20HoshikawaMiku&descAlign=50&descSize=20&descAlignY=45&animation=twinkling" alt="Hi There" title="Hi There"/>
+# 是HoshikawaMiku！！！
+
+- 🔭 In university study
+- 🌱 Now learning **Artificial Intelligence**
+- 📫 How to reach me: **hoshikawamiku@outlook.com**, Chinese, English and Japanese are accepted
+- ⭐ 希望每一天都能心动不已，闪闪发光
+
 
 </p>
 <p align="center">
@@ -13,52 +18,3 @@
     <a href="https://space.bilibili.com/1208094653"><img src="https://img.shields.io/badge/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9-%e6%98%9f%e5%b7%9d%e6%9c%aa%e6%9d%a5-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     <a href="https://wakatime.com/@HoshikawaMiku"><img src="https://wakatime.com/badge/user/cb7a6cd3-5906-4bf1-afd2-c8d9514409e5.svg" alt="Wakatime" title="Wakatime" /></a>
     <a href="https://github.com/HoshikawaMiku"><img src="https://komarev.com/ghpvc/?username=HoshikawaMiku&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
-
-## 🐱 About Me
-<img align= "right" width="400" src="https://github-readme-stats.vercel.app/api?username=HoshikawaMiku&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
-
-- 🔭 In university study
-- 🌱 Now learning **stm32, Unity, Cangjie, ArkTS**
-- 💬 Ask me about **Game Develop, HarmonyOS Develop, Painting and Modeling Skills**Σ(°△°|||)
-- ⭐ Star my repositories if you find them interesting!
-- 📫 How to reach me: **hoshikawamiku@outlook.com**, Chinese, English and Japanese are accepted.
-
-    <!-- https://github.com/LelouchFR/skill-icons -->
-#### 👨‍💻 Programming Languages
-<img  src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,c,cs,matlab,ts,js&titles=true" alt="Programming Languages" title="Programming Languages">
-
-#### 🎨 Frontend Development
-<img  src="https://go-skill-icons.vercel.app/api/icons?i=html,css,vue&titles=true" alt="Frontend Development" title="Frontend Development">
-
-<!--#### 🔧 Backend Development
-<img width="200" src="https://go-skill-icons.vercel.app/api/icons?i=typescript&titles=true" alt="Backend Development" title="Backend Development">
--->
-
-#### 🎮 Game Development
-<img  src="https://go-skill-icons.vercel.app/api/icons?i=unity,blender&titles=true" alt="Frontend Development" title="Game Development">
-
-#### 🔨 Tools & Others
-<img  src="https://go-skill-icons.vercel.app/api/icons?i=github,git,ps,au,pr,ae,arduino,pycharm,clion,rider,visualstudio,vscode,jupyter,outlook&titles=true" alt="Skill Icons" title="Skill Icons">
-
-
-## 📊 GitHub Statistics
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoshikawaMiku&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=HoshikawaMiku&theme=algolia&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
-</div>
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoshikawamiku&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
-</div>
-
-
-</p>
-<p align="center">
-    <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&&section=footer&text=THE%20END&fontSize=40&fontAlign=50&fontAlignY=85&desc=As+if+it+were+the+first+sight&descAlign=50&descSize=20&descAlignY=60&animation=twinkling" alt="The End" title="The End"/>
-</p>
