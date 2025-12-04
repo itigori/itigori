@@ -3,7 +3,7 @@
 - 🔭 In university study
 - 🌱 Now learning **Artificial Intelligence**
 - 📫 How to reach me: **hoshikawamiku@outlook.com**, Chinese, English and Japanese are accepted
-- ⭐ 希望每一天都能心动不已，闪闪发光
+- ⭐ 希望每一天都能闪闪发光，心动不已
 
 
 </p>
