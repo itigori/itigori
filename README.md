@@ -1,4 +1,4 @@
-# 是TakanashiMirai！
+# 是nyaun！
 
 - 🔭 In university study
 - 🌱 Now learning **Artificial Intelligence**
