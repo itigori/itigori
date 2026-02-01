@@ -1,8 +1,8 @@
-# 是nyaun！
+# 是itigori！
 
 - 🔭 In university study
 - 🌱 Now learning **Artificial Intelligence**
-- 📫 How to reach me: **nyaun.ovo@outlook.com**, Chinese, English and Japanese are accepted
+- 📫 How to reach me: **itigori@foxmail.com**, Chinese, English and Japanese are accepted
 - ⭐ 希望每一天都能闪闪发光，心动不已
 
 
@@ -12,7 +12,7 @@
 
 </p>
 <p align="center">
-    <a href="https://github.com/nyaun"><img src="https://img.shields.io/badge/GitHub-nyaun-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://gitee.com/nyuan"><img src="https://img.shields.io/badge/Gitee-nyuan-943e43?logo=gitee" alt="Gitee" title="Gitee" /></a>
-      <a href="https://gitcode.com/nyuan"><img src="https://img.shields.io/badge/GitCode-nyuan-bb1f3c?logo=gitcode" alt="GitCode" title="GitCode" /></a>
+    <a href="https://github.com/itigori"><img src="https://img.shields.io/badge/GitHub-nyaun-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://gitee.com/itigori"><img src="https://img.shields.io/badge/Gitee-nyuan-943e43?logo=gitee" alt="Gitee" title="Gitee" /></a>
+      <a href="https://gitcode.com/itigori"><img src="https://img.shields.io/badge/GitCode-nyuan-bb1f3c?logo=gitcode" alt="GitCode" title="GitCode" /></a>
     <a href="https://space.bilibili.com/1208094653"><img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-%e7%a8%9a%e9%9b%aaNyaun-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
