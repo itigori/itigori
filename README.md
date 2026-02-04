@@ -1,4 +1,4 @@
-# 是itigori！
+# 你好，这里是chinoyuki
 
 - 🔭 In university study
 - 🌱 Now learning **Artificial Intelligence**
